@@ -51,7 +51,7 @@ As my automation projects often contain company-protected processing--this demon
 
 
 
-### Data Warehouse Proficiency
+### Data Proficiency
 ---
 ![databaseimg1](https://github.com/dwest85/project_showcase/blob/main/markdown_images/databaseimg1.jpg)
 
