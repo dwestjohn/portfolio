@@ -1,9 +1,9 @@
-## Project|Work Showcase
+## Portfolio|Work Showcase
 ---
 ```
 This portfolio is to showcase my data-based skillset.
 To view a full professional description, please visit my linkedin.
-Quick proficiency glance: SQL, Python, Java, Power BI, Tableau, GIT, AWS and more.
+Quick proficiency glance: SQL, Python, Java, JS, Power BI, Tableau, GIT, AWS and more.
 ```
 [linkedin profile](https://www.linkedin.com/in/derek-westjohn-82154662)
 
@@ -24,7 +24,16 @@ Using the different parameters, the application will predict the death probabili
 
 
 
-### Dashboards and APIs
+### Dashboards|Ad-Hoc Reporting
+---
+![dashboard_gif](insertdashboard1here)
+
+###### Description:
+This dashboard report was created for my company using a complete SQL data model build-out and view connection to our AWS Redshift database. It was then inserted into our Tableau bridge for automated data feeds. The following dashboard was created in Tableau, but I'm also proficient in Power BI, as well as custom Excel dashboarding and other technologies. I will use any technology or data stack setup to get the task completed--meeting the shareholder's vision.
+
+
+
+### APIs
 ---
 ![excel_dashboard_gif](https://github.com/dwest85/project_showcase/blob/main/markdown_gifs/dashboard_gif.gif)
 
@@ -33,7 +42,16 @@ This report was created using the Google Maps API, which pulls competitor data i
 
 
 
-### Visualizations
+### SQL Development
+---
+![sql_gif](insertsqlpicturehere)
+
+###### Description:
+The following query is being developed in our postgres-based AWS Redshift data warehouse. I'm responsible for creating proper data models and data relationships to harness performance and accuracy within our front-end dashboard reporting. I'm also proficient in sql-server based frameworks.
+
+
+
+### Visualizations|Ad-Hoc reporting
 ---
 ![tableau_reports_gif](https://github.com/dwest85/project_showcase/blob/main/markdown_gifs/visuals_gif.gif)
 
@@ -42,7 +60,16 @@ I often create weekly visual ad-hoc reporting for our clientele using Tableau an
 
 
 
-### Python Automation|Scripting
+### Coding|Project Development
+---
+![python_project_gif](insertpythonpicturehere)
+
+###### Description:
+This automation project was developed using python to assist our treasury department with creating their monthly bank consolidation reporting. These developments are aimed at improving performance and accuracy, while significantly decreasing manpower bandwidth.
+
+
+
+### Automation|Scripting
 ---
 ![scriptsgif](https://github.com/dwest85/project_showcase/blob/main/markdown_gifs/automation_gif.gif)
 
@@ -58,7 +85,7 @@ As my automation projects often contain company-protected processing--this demon
 ![databaseimg2](https://github.com/dwest85/project_showcase/blob/main/markdown_images/databaseimg2.jpg)
 
 ###### Description:
-I have sufficient experience with PG-based databases, such as AWS Redshift, as well as SQL Server. The following picture is an example of Heroku cloud-service connected to AWS.
+I have sufficient experience with postgres-based databases, such as AWS Redshift, as well as SQL Server. The following picture is an example of Heroku cloud-service connected to AWS.
 
 
 
