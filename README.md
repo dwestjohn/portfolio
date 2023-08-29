@@ -26,7 +26,7 @@ Using the different parameters, the application will predict the death probabili
 
 ### Dashboards|Ad-Hoc Reporting
 ---
-![dashboard_gif](insertdashboard1here)
+![dashboard_gif](https://github.com/dwestjohn/portfolio/blob/main/markdown_images/dashboard1.png)
 
 ###### Description:
 This dashboard report was created for my company using a complete SQL data model build-out and view connection to our AWS Redshift database. It was then inserted into our Tableau bridge for automated data feeds. The following dashboard was created in Tableau, but I'm also proficient in Power BI, as well as custom Excel dashboarding and other technologies. I will use any technology or data stack setup to get the task completed--meeting the shareholder's vision.
@@ -44,7 +44,7 @@ This report was created using the Google Maps API, which pulls competitor data i
 
 ### SQL Development
 ---
-![sql_gif](insertsqlpicturehere)
+![sql_gif](https://github.com/dwestjohn/portfolio/blob/main/markdown_images/redshift1.png)
 
 ###### Description:
 The following query is being developed in our postgres-based AWS Redshift data warehouse. I'm responsible for creating proper data models and data relationships to harness performance and accuracy within our front-end dashboard reporting. I'm also proficient in sql-server based frameworks.
@@ -62,7 +62,7 @@ I often create weekly visual ad-hoc reporting for our clientele using Tableau an
 
 ### Coding|Project Development
 ---
-![python_project_gif](insertpythonpicturehere)
+![python_project_gif](https://github.com/dwestjohn/portfolio/blob/main/markdown_images/pythonscript1.png)
 
 ###### Description:
 This automation project was developed using python to assist our treasury department with creating their monthly bank consolidation reporting. These developments are aimed at improving performance and accuracy, while significantly decreasing manpower bandwidth.
