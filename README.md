@@ -15,7 +15,7 @@ Quick proficiency glance: SQL, Python, Java, JS, Power BI, Tableau, GIT, AWS and
 ---
 ![covid_gif](https://github.com/dwest85/project_showcase/blob/main/markdown_gifs/covid19_gif.gif)
 
-[Covid-19 Prediction Application Link - Hosted on Heroku](https://covidappproject.herokuapp.com/)
+[Covid-19 Prediction Application Link - Hosted on Heroku]([https://covidappproject.herokuapp.com/](https://covid19predictionmodel.streamlit.app/)
 
 ###### Description:
 This application was built with the streamlit framework, using the Python language as the core building block. The pandas package was used in Jupyter Notebook for the majority of the data cleaning|processing and the sci-kit learn and scipy packages were used for building the machine learning element used for the supervised learning application. Logistic Regression and Ridge Regression was the model and argument, which achieved an 89% accuracy score. Pickle was also used for the encoding process of the application.
