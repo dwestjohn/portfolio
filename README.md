@@ -1,9 +1,9 @@
 ## Portfolio|Work Showcase
 ---
 ```
-This portfolio is to showcase my data-based skillset.
-To view a full professional description, please visit my linkedin.
-Quick proficiency glance: SQL, Python, Java, JS, Power BI, Tableau, GIT, AWS and more.
+This portfolio is to showcase my skillset and previous achievements.
+To view my full professional listing, please visit my linkedin.
+Quick proficiency glance: SQL, Python, Machine Learning, AI, Data Engineering, Data Analytics, AWS, and much more.
 ```
 [linkedin profile](https://www.linkedin.com/in/derek-westjohn-82154662)
 
@@ -18,9 +18,9 @@ Quick proficiency glance: SQL, Python, Java, JS, Power BI, Tableau, GIT, AWS and
 [Covid-19 Prediction Application Link - Hosted on Streamlit](https://covid19predictionmodel.streamlit.app/)
 
 ###### Description:
-This application was built with the streamlit framework, using the Python language as the core building block. The pandas package was used in Jupyter Notebook for the majority of the data cleaning|processing and the sci-kit learn and scipy packages were used for building the machine learning element used for the supervised learning application. Logistic Regression and Ridge Regression was the model and argument, which achieved an 89% accuracy score. Pickle was also used for the encoding process of the application.
+This prediction application was built with the streamlit framework, using Python. The pandas package was used for the majority of the data cleaning|processing and the sci-kit learn and scipy packages were used for building the machine learning element used for the supervised learning application. Logistic Regression and Ridge Regression was the model and argument, which achieved an 89.42% accuracy score. 
 
-Using the different parameters, the application will predict the death probability and surviving probability based on the socio-economic traits selected. The application also further explains the power of Ridge Regression and it's use to achieve the strong accuracy score. The code for this application can be found in the covid_prediction_application folder.
+Using the different parameters, the application will predict the death probability and surviving probability based on the socio-economic traits selected. The application also further explains the power of Ridge Regression and it's use to achieve strong accuracy scores. The code for this application can be found in the covid_prediction_application folder.
 
 
 
@@ -29,7 +29,7 @@ Using the different parameters, the application will predict the death probabili
 ![dashboard_gif](https://github.com/dwestjohn/portfolio/blob/main/markdown_images/dashboard1.png)
 
 ###### Description:
-This dashboard report was created for my company using a complete SQL data model build-out and view connection to our AWS Redshift database. It was then inserted into our Tableau bridge for automated data feeds. The following dashboard was created in Tableau, but I'm also proficient in Power BI, as well as custom Excel dashboarding and other technologies. I will use any technology or data stack setup to get the task completed--meeting the shareholder's vision.
+This dashboard report was created for a previous employer using a complete SQL data model build-out and view connection to our AWS Redshift database. It was then inserted into our Tableau bridge for automated data feeds. The following dashboard was created in Tableau, but I'm also proficient in Power BI, as well as custom Excel dashboarding and other technologies. I will use any technology or data stack setup to get the task completed--meeting the shareholder's vision.
 
 
 
